@@ -18,9 +18,17 @@
 # Site settings
 title: Aishwarya Venkataramanan
 email: vaishwarya96@gmail.com
-#description: > # this means to ignore newlines until "baseurl:"
-        #This is my personal record of interesting programming tips, computer science
-        #theories, and any of the feelings I'd like to share with the community.
+description: > this means to ignore newlines until "baseurl:"
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+
+You can find the source code for the Jekyll new theme at:
+{% include icon-github.html username="jglovier" %} /
+[jekyll-new](https://github.com/jglovier/jekyll-new)
+
+You can find the source code for Jekyll at
+{% include icon-github.html username="jekyll" %} /
+[jekyll](https://github.com/jekyll/jekyll)
+
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 github_username: vaishwarya96
